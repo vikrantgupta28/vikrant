@@ -21,7 +21,7 @@ public class Main2Activity extends AppCompatActivity {
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Snackbar.make(view, "vikrant gupta", Snackbar.LENGTH_LONG)
+                Snackbar.make(view, "vikrant gupta mca", Snackbar.LENGTH_LONG)
                         .setAction("Action", null).show();
             }
         });
